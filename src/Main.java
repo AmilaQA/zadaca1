@@ -41,6 +41,19 @@ public class Main {
         System.out.println(charA + "" + char_m + "" + char_i + "" + char_l + "" + char_a);
         System.out.println("\n");
 
+        char myVar_A = 65, myVar_m = 109, myVar_i = 105, myVar_l = 108, myVar_a = 97;
+        char A = 65;
+        char m = 109;
+        char i = 105;
+        char l = 108;
+        char a = 97;
+        System.out.println(myVar_A);
+        System.out.println(myVar_m);
+        System.out.println(myVar_i);
+        System.out.println(myVar_l);
+        System.out.println(myVar_a);
+        System.out.println(myVar_A + "" + myVar_m + "" + myVar_i + "" + myVar_l + "" + myVar_a);
+
         // task 7
         // varijabla koja ispisuje odgovarajuci tekst
         String question = "Answer to the Ultimate Question of Life, the Universe, and Everything is the number 42:";
